@@ -1,0 +1,184 @@
+*{
+    margin: 0;
+}
+section{
+    display: grid;
+    grid-template-columns: 300px 500px 400px;
+    position: absolute;
+    /* left: 100px; */
+    /* right: 2px; */
+    top: 30px;
+}
+form{
+    margin-top: 105px;
+    margin-left: 75px;
+}
+.img{
+    width: 700px;
+    height: 400px;
+}
+button {
+    background-color: white;
+    width: 300px;
+    height: 50px;
+    border: none;
+    margin-top: 2px;
+}
+.fa-circle{
+    position: relative;
+    font-size: 25px;
+    right: 60px;
+
+}
+.fa-circle-check{
+    position: relative;
+    right: 82px;
+    bottom: 4px;
+}
+.my{
+   position: relative;
+   right: 70px;
+   bottom: 4px;
+}
+.my1{
+    position: relative;
+    left: 60px;
+    bottom: 4px;
+}
+.my2{
+    position: relative;
+    left: 60px;
+    bottom: 4px;
+
+}
+.fa-pen-to-square{
+    position: relative;
+    right: 82px;
+    bottom: 4px;
+}
+.app{
+    position: relative;
+    right: 60px;
+    bottom: 4px;
+}
+.app1{
+    position: relative;
+    left: 60px;
+}
+.fa-angle-down{
+    position: relative;
+    left: 60px;
+}
+.input1{
+    width: 53px;
+    background-color: rgb(174, 172, 172);
+    color: white;
+    border: none;
+    position: relative;
+    bottom: 19px;
+   
+}
+.omer{
+    padding-right: 206px;
+    color: rgb(173, 172, 172);
+    
+   
+}
+.button1{
+    position: relative;
+    bottom: 3px;
+    width: 300px;
+    height: 70px;
+    background-color: rgb(224, 222, 222);
+
+}
+.button2{
+    position: relative;
+    right: 112px;
+    bottom: 2px;
+    width: 55px;
+    background-color: red;
+    color: white;
+}
+.button3{
+    position: relative;
+    bottom: 2px;
+    right: 118px;
+    width: 55px;
+    background-color: black;
+    color: white;
+}
+.fa-desktop{
+    position: relative;
+    right: 43px;
+    bottom: 4px;
+}
+.button4{
+    position: relative;
+    bottom: 8px;
+    height: 70px;
+}
+.lap{
+    position: relative;
+    right: 20px;
+    bottom: 6px;
+    border-bottom: 5px solid gray;
+    border-radius: 2px 2px 2px 2px;
+    padding-bottom: 5px;
+    
+    
+   
+    
+}
+.text1{
+    width: 48px;
+    border: none;
+    background-color: rgb(199, 196, 196);
+    color: white;
+    position: relative;
+    bottom: 15px;
+}
+.fa-hand-holding-medical{
+    position: relative;
+    right: 23px;
+    bottom: 3px;
+}
+.exp{
+    width:52px;
+    border: none;
+    background-color: rgb(199, 196, 196);
+    position: relative;
+    bottom:5px;
+    left: 10px;
+}
+.use{
+    position: relative;
+    bottom:5px;
+    border-bottom: 5px solid gray;
+    border-radius: 2px 2px 2px 2px;
+    padding-bottom: 5px;
+    
+}
+.button5{
+    position: relative;
+    bottom: 8px;
+    height: 55px;
+    
+}
+.the{
+    display: grid;
+    position: relative;
+    justify-content: center;
+}
+h1{
+    position: relative;
+    top: 80px;
+}
+.expl{
+    border: 2px solid;
+   border-color: green; 
+   width: 200px;
+   position: relative;
+   bottom: 20px;
+}
+

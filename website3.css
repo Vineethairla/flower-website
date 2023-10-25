@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+}
+body{
+    height: 100vh;
+    background:linear-gradient(rgb(70, 15, 15) ,rgb(164, 43, 63));
+}
+section{
+    color: white;
+}

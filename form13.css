@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+}
+body{
+    border: 1px solid;
+    margin-left: 400px;
+    width: 600px;
+    padding-left: 10px;
+    
+
+}
+section{
+    display: flex;
+    justify-content: center;
+
+}
+.name{
+    padding-left: 60px;
+    margin-top: 30px;
+}
+.img{
+    width: 250px;
+}
+form{
+    padding-left: 30px;
+    
+}
+label,input,hr{
+    margin-top: 9px;
+}
+input{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.print{
+    padding-left: 250px;
+}
+.tex{
+    width: 450px;
+}
+.tex1{
+    width: 50px;
+}
+.lab{
+    padding-left: 20px;
+}
+.tex2{
+    width: 100px;
+}
+.tex3{
+    width:50px;
+}
+.tex4{
+    width: 380px;
+}
+.tex5{
+    width: 70px;
+}
+.tex6{
+    width:260px;
+}
+.text{
+    width:330px;
+    border-color:rgb(11, 136, 168);
+}
+.text1{
+    width: 230px;
+}
+.text2{
+    width:120px;
+}
+.text3{
+    width:378px;
+}
+.text4{
+    width: 328px;
+}
+h1{
+    color:rgb(11, 136, 168);
+}
+.te{
+    width: 460px;
+}
+.te1{
+    width:230px;
+}
+.te2{
+    width: 180px;
+}
+.te3{
+    width:220px;
+}.te4{
+    width: 115px;
+
+}
+small{
+    color:rgb(11, 136, 168) ;
+}
+.vac{
+    color:rgb(11, 136, 168) ;
+}

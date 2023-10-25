@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+<style>
+    div{
+        width: 300px;
+        height: 150px;
+        border: 1px solid;
+    
+    }
+    section{
+        display: flex;
+        flex-direction: row;
+        /* flex-wrap: wrap;nowrap,wrap,wrap-reverse */
+      /* flex-flow: row wrap;  */
+     /* gap: 30px; */
+     justify-content:space-around; 
+     /* align-items:baseline; */
+     align-content: center;
+     height: 100vh;
+     /* flex-wrap: wrap; */
+     /* justify-content: center; */
+    }
+    .div1{
+        flex-grow:1 ;
+       background-color: pink;
+
+    }
+    .div2{
+        flex-grow: 1;
+       background-color:blue ;
+    }
+    .div3{
+       flex-grow:1 ; 
+       background-color: red;
+    }
+    .div4{
+    flex-grow:1 ;
+       background-color: green;
+    }
+    .div5{
+        flex-grow:1 ;
+       background-color:yellow ;
+    }
+    .div6{
+        flex-grow:1 ;
+        background-color: burlywood;
+        /* flex-shrink: 20;
+        flex-basis: 30; */
+        align-self: center;
+        
+    }
+    
+    
+</style>
+</head>
+<body>
+    <section>
+        <div class="div2"style="order:2;">two</div>
+    <div class="div1"style="order:1;">one</div>
+    <div class="div4"style="order:4;">four</div>
+    <div class="div3"style="order:3;">three</div>
+    <div class="div6"style="order:6;">six</div>
+    <div class="div5"style="order:5;">five</div>
+  
+</section>
+</body>
+</html>

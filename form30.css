@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+}
+body{
+    height: 100vh;
+    background: linear-gradient(rgb(240, 102, 240),pink);
+}
+section{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.form{
+    border: 1px solid;
+    width: 300px;
+    height: 430px;
+    color: white;
+    background-color: black;
+    border: none;
+    position: relative;
+    top: 60px;
+}
+.gap{
+    margin-top: 20px;
+    margin-left: 20px;
+    padding: 5px;
+    width: 230px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background-color: black;
+}
+.fa-calendar-days{
+    position: relative;
+    right: 20px;
+}
+select{
+    width: 240px;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding: 5px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    color: white;
+    background-color: black;
+}
+img{
+    position: relative;
+    left: 420px;
+    top: 60px;
+}
+button{
+    margin-top: 30px;
+    margin-left: 40px;
+    color:white;
+    background-color: rgb(24, 177, 24);
+    padding: 10px;
+    width: 120px;
+    border: none;
+    border-radius: 15px;
+
+}

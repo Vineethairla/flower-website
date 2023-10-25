@@ -1,0 +1,80 @@
+*{
+margin: 0;
+}
+body{
+    display: flex;
+    height: 100vh;
+    background: linear-gradient( 90deg,rgb(215, 31, 62) ,purple);
+    justify-content: center;
+    align-items: center;
+}
+.name {
+    display: flex;
+    
+}
+.last{
+    padding-left:115px;
+}
+.last1{
+    padding-left: 130px;
+}
+.last2{
+    padding-left: 140px;
+    margin-left: 10px;
+}
+.radio{
+    margin-left: 1px;
+}
+ .radio1{
+    margin-left: 20px;
+}
+.label{
+    margin-left: 10px;
+}
+.label1{
+    width: 360px;
+}
+
+section{
+    
+    background-color: white;
+    width : 450px;
+    height:350px;
+    border-radius: 5px;
+    justify-content: center;
+    padding: 30px;
+    border:none;
+    color: rgb(78, 77, 77);
+
+    
+}
+div {
+    margin-top: 20px;
+    
+}
+input{
+  
+    background-color: rgb(247, 243, 243);
+    border: none;
+    padding: 5px;
+    
+}
+button{
+    background-color: rgb(94, 94, 220);
+    border: none;
+    width: 80px;
+    height:30px;
+    border-radius: 2px;
+    
+}
+select{
+    border: none;
+    background-color: rgb(247, 243, 243);
+    width:350px;
+    height:30px;
+    color:gray
+}
+.fa-regular {
+    position: relative;
+    right: 25px;
+}

@@ -1,0 +1,66 @@
+*{
+   margin: 0; 
+}
+body{
+    background-color: rgb(66, 66, 192);
+}
+.image{
+    height:100px;
+    width: 430px;
+
+}
+form{
+    background-color: white;
+    width:400px;
+    height:250px;
+    margin-top: -5px;
+}
+form,input,select{
+    border-top: none ;
+    border-left: none;
+    border-right: none;
+    padding-left: 30px;
+    padding-bottom: 3px;
+    margin-bottom: 15px;
+}
+section{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    
+}
+.name{
+    width:348px;
+}
+button{
+    background-color: rgb(43, 202, 43);
+    color: white;
+    border: none;
+    margin-bottom: 20px;
+    width:80px;
+    height: 30px;
+    
+}
+p{
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+select{
+    border-color: rgb(146, 142, 142);
+    border-width: 2px;
+}
+.name1{
+    width:165px;
+}
+.name2{
+    width:380px;
+}
+.name3{
+    width:200px;
+}
+.fa-regular{
+    position: relative;
+    right: 20px;
+}

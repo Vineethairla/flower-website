@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+}
+section{
+    display: grid;
+    grid-template-columns: 200px 150px 200px 100px  500px;
+    padding-left: 80px;
+    margin-top: 50px;
+    
+}
+.fa-2xl{
+    padding-left: 630px;
+
+
+}
+h1{
+    margin-bottom: 20px;
+}
+.h1{
+    padding-left: 35px;
+    /* margin-bottom: 5px; */
+}
+li{
+    padding-bottom: 15px;
+}
+p{
+    padding-bottom: 10px;
+    
+}
+.tex{
+    margin-top: 45px;
+}
+.fa-brands{
+    position: relative;
+    right: 23px;
+    
+}
+
+
+.form{
+    padding-left: 80px;
+    /* padding-top: 80px; */
+
+}
+.copy{
+    padding-top: 40px;
+    position: absolute;
+    left: 40px;
+}

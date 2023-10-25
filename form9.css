@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+}
+section{
+    display: flex;
+    padding: 40px;
+    justify-content: center;
+
+}
+h1{
+    padding-left: 650px;
+}
+.form2,input{
+    padding-left: 40px;
+    margin-bottom: 15px;  
+    margin-top: 10px; 
+
+}
+.text{
+    height: 30px;
+}
+.text1{
+    margin-left: 90px;
+    width:120px;
+    height:30px;
+
+}
+.text2{
+    width:80px;
+    margin-left: 90px;
+    padding: 2px;
+    
+}
+.text3{
+    width:70px;
+    padding:2px;
+    
+}
+.text4{
+    width:50px;
+    margin-left: 80px;
+}
+.text5{
+    width:165px;
+    margin-left: 90px;
+    padding: 2px;
+}
+.text6{
+    width:130px;
+    margin-left: 50px;
+
+}
+.text7{
+    width:130px;
+    margin-left: 60px;
+}
+.text8{
+    width:130px;
+    margin-left: 75px;
+
+}
+.text9{
+    width:130px;
+    margin-left: 70px;
+}
+.text10{
+    width: 270px;
+}
+ul,li{
+   margin-bottom: 10px; 
+   margin-top: 8px;
+   
+}
+div{
+    border-left: 2px solid rgb(189, 185, 185);
+    
+    margin-left: 50px;
+    margin-top: 30px;
+    
+}
+.radio{
+    color:black;
+    border-color: black;
+    
+    
+
+}

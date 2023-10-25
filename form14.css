@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+}
+.img{
+    width: 300px;
+    height: 620px;
+}
+section{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+form{
+    padding-left: 30px;
+
+}
+form,label,input,select{
+    margin-bottom: 30px;
+    margin-top: 5px;
+}
+.sel{
+    color: rgb(253, 3, 3);
+}
+.meal{
+    padding-left: 150px;
+}
+.meal1{
+    padding-left: 105px;
+}
+.in{
+    width: 230px;
+    height: 25px;
+    border-color: rgb(73, 215, 73);
+}
+.id{
+    margin-left: 30px;
+    width: 350px;
+    height: 25px;
+}
+.meal2{
+    margin-left: 120px;
+}
+.te{
+    width: 230px;
+    height: 25px;
+    border-color: red;
+}
+.rad{
+    margin-left: 20px;
+}
+.rad1{
+    padding-left: 50px;
+}
+.meal3{
+    padding-left: 180px;
+}
+.te1{
+    width: 230px;
+    height: 25px;
+}
+.on{
+    padding-left: 205px;
+}
+.pay{
+    padding-left: 110px;
+}
+.range{
+    width:400px;
+    /* color: rgb(230, 224, 224); */
+    accent-color: rgb(36, 196, 36);
+    /* border: 1px solid; */
+    /* outline: 3px solid; */
+    outline-offset: 0.125rem;
+    /* height: 10rem; */
+    /* width: 10rem; */
+
+    
+}
+.sub1{
+    background-color: rgb(60, 186, 60);
+    color: white;
+    border: none;
+    width: 80px;
+    height: 30px;
+    margin-left:460px ;
+
+}
+.sub2{
+    height:30px;
+    width:80px ;
+}
+.fa-solid{
+    position: relative;
+    right: 30px;
+}

@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+}
+section{
+    display: grid;
+    grid-template-columns: 450px 350px;
+    justify-content: center;
+    margin-top: 50px;
+}
+.con{
+    text-align: center;
+    padding-top: 30px;
+}
+.us{
+    background-color: rgb(42, 110, 255);
+    height: 390px;
+    /* margin-bottom: 50px; */
+    position: relative;
+    bottom: 20px;
+
+}
+.name{
+    height: 30px;
+    width: 180px;
+    
+}
+.name1{
+    height: 30px;
+    width: 370px;
+    
+}
+.name3{
+    width: 370px;
+    height: 130px;
+    
+}
+.co{
+    padding-top: 35px;
+    color: white;
+    padding-left: 15px;
+}
+.in{
+    background-color: rgb(237, 237, 237);
+    padding-left: 25px;
+    height: 350px;
+    /* color: white; */
+}
+.fa-solid{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.fa-circle{
+    font-size: 22px;
+}
+.fa-location-dot{
+    position: relative;
+    right: 40px;
+    bottom: 3px;
+    font-size: 15px;
+}
+.add{
+    position: relative;
+    left: 42px;
+    bottom: 33px;
+    margin-left: 10px;
+    color: white;
+}
+.fa-phone{
+    position: relative;
+    right: 41px;
+    bottom: 3px;
+    font-size: 13px;
+
+}
+h1{
+    padding-left:3px;
+    padding-top: 10px;
+}
+.add1{
+    position: relative;
+    left: 42px;
+    bottom: 22px;
+    margin-left: 10px;
+    color: white;
+
+}
+.fa-telegram{
+    position: relative;
+    right: 22.5px;
+    bottom: 2px;
+
+}
+.fa-globe{
+    position: relative;
+    right: 43px;
+    bottom: 2.5px;
+
+
+}
+button{
+    background-color:rgb(41, 108, 252);
+    border: none;
+    color: white;
+    width: 120px;
+    height: 30px;
+}

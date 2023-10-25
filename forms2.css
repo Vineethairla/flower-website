@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+}
+body{
+    height:100vh;
+    display: flex;
+    background-color: rgb(234, 74, 74);
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.div{
+    height: 290px;
+    width:200px;
+}
+section{
+    display:flex
+}
+form{
+    background-color: white;
+    padding-left: 20px;
+    height: 290px;
+    width: 300px;
+    
+    
+}
+section form,input,select{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-color: rgb(242, 237, 237);
+    
+    
+
+}
+button{
+    background-color: rgb(130, 235, 130);
+    border: none;
+    border-radius: 2px;
+    height: 25px;
+    width: 70px;
+    
+}
+select{
+    color: rgb(122, 118, 118);
+    border-color: rgb(190, 186, 186);
+    
+
+}
+.name1{
+    width:257px;
+    color: rgb(160, 158, 158);
+}
+.name {
+    width:256px;
+}
+h1{
+    margin-top: 20px;
+}
+.fa-regular{
+    position:relative;
+    right: 20px;
+}

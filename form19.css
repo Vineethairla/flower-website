@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+}
+section{
+    color: white;
+    display: grid;
+    grid-template-columns: auto auto auto 500px;
+    background-color: grey;
+    padding: 50px;
+    position: absolute;
+    left: 0;
+    right: 0;
+
+}
+
+input{
+    padding: 10px;
+    width: 250px;
+
+
+}
+
+button{
+    background-color: rgb(235, 14, 14);
+    color: white;
+    padding: 12px;
+    position: relative;
+    left: -10px;
+    outline: none;
+    border: none;
+    
+}
+div{
+   padding-top: 15px;
+}
+
+ul{
+    margin-left: -40px;
+}
+li{
+    padding-top: 15px;
+}
+.fa-chevron-left{
+    font-size: 10px;
+}
+.con1 p{
+    padding-top: 10px;
+}
+.con5{
+    
+  
+    position: absolute;
+    left: 0 ;
+    right: 0 ;
+    bottom: 0;
+}
+.fa-twitter{
+    position: relative;
+    right: 22px;
+}
+.fa-facebook{
+    position: relative;
+    right: 22px;
+}
+.fa-instagram{
+    position: relative;
+    right: 22px;
+
+}
+.fa-skype{
+    position: relative;
+    right: 22px;
+
+}
+.fa-linkedin-in{
+    position: relative;
+    right: 22px;
+
+
+}
+

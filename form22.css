@@ -1,0 +1,185 @@
+*{
+    margin: 0;
+}
+.img{
+    width: 400px;
+    height: 430px;
+    border-radius: 2px;
+}
+section{
+    display: grid;
+    grid-template-columns: 300px 1000px;
+    margin-top: 15px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    
+
+}
+.eni{
+    padding-left: 150px;
+}
+.fa-regular{
+    /* position: relative; */
+    font-size: 60px;
+    /* margin-bottom: 100px; */
+}
+.fa-fingerprint{
+    position: relative;
+    right: 52px;
+    bottom: 9px;
+    font-size: 35px;
+}
+.fa-gift{
+    position: relative;
+    right: 52px;
+    bottom: 9px;
+    font-size: 35px;
+
+}
+.fa-atom{
+    position: relative;
+    right: 52px;
+    bottom: 9px;
+    font-size: 35px;
+}
+.lor{
+    position: relative;
+    bottom: 50px;
+    left: 70px;
+    padding-bottom: 10px;
+}
+.tex1{
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    
+
+}
+.te2{
+    width:180px;
+    height: 50px;
+    margin-left: 390px;
+}
+.te3{
+    width:180px;
+    height: 50px;
+
+}
+.te4{
+    width:180px;
+    height: 50px;
+}
+.te5{
+    width:180px;
+    height: 50px;
+    
+}
+.doc{
+    position: relative;
+    bottom: 50px;
+    left: 470px;
+}
+  
+
+
+.doc{
+    position: relative;
+    top: 18px;
+    left: 14px;
+    height:100px ;
+    width: 200px;
+    background-color: white;
+
+}
+.dep{
+    position: relative;
+    top: 18px;
+    left: 14px;
+    height:100px ;
+    width: 200px;
+    background-color: white;
+    
+
+}
+.res{
+    position: relative;
+    top: 18px;
+    left: 14px;
+    height:100px ;
+    width: 200px;
+    background-color: white;
+
+}
+.awa{
+    position: relative;
+    top: 18px;
+    left: 14px;
+    height:100px ;
+    width: 200px;
+    background-color: white;
+    
+}
+.icons{
+    background-color: aliceblue;
+    position: relative;
+    /* top: 5000px; */
+    height:138px ;
+    justify-content: center;
+    align-items: center;
+    top:460px;
+    display: grid;
+    grid-template-columns: 230px 230px 230px 230px;
+
+}
+.awa1{
+    padding-left: 77px;
+    /* padding-top: 50px; */
+
+}
+.awa2{
+    padding-left: 72px;
+}
+.awa3{
+    padding-left: 61px;
+}
+.awa3{
+    padding-left: 55px;
+}
+.awa4{
+    padding-left: 70px;
+}
+
+.fa-award{
+    position: relative;
+    left: 51px;
+    bottom: 22px;
+}
+.fa-user-doctor{
+    position: relative;
+    left: 49px;
+    bottom: 22px;
+
+}
+.fa-hospital{
+    position: relative;
+    left: 47px;
+    bottom: 22px;
+    font-size: 15px;
+
+
+}
+.fa-flask{
+    position: relative;
+    left: 50px;
+    bottom: 22px;
+    font-size: 15px;
+
+
+}
+
+
+
+
+

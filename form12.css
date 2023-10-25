@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+}
+table,th,td{
+    border: 1px solid;
+    border-collapse: collapse;
+}
+section{
+    padding-left: 260px;
+}
+.company{
+    padding-right:660px;
+   background-color: aliceblue;
+}
+.contact{
+    padding-right: 105px;
+    background-color: aliceblue;
+}
+.addr{
+    padding-right: 733px;
+    background-color: aliceblue;
+}
+.phone{
+    padding-right: 180px;
+    background-color: aliceblue;
+}
+.email{
+    padding-right: 515px;
+    background-color: aliceblue;
+}
+.title1{
+    padding-right: 520px; 
+    background-color: aliceblue;
+}
+.web{
+    padding-right: 496px;
+}
+.fax{
+    padding-right: 210px;
+}
+input{
+    width:806px;
+    height:70px;
+    
+}
+.fee{
+    padding-right:120px ;
+    background-color: rgb(201, 198, 198)
+}
+.made{
+    padding-right: 431px;
+    background-color: rgb(201, 198, 198)
+}
+.pay{
+    padding-right: 72px;
+    background-color: aliceblue;
+}
+.check{
+    padding-right: 60px; background-color: aliceblue;
+}
+.mon{
+    padding-right: 60px;
+    background-color: aliceblue;
+}
+.cred{
+    padding-right: 85px;
+    background-color: aliceblue;
+}
+.on{
+    padding-right: 248px;
+}
+.name{
+    padding-right: 180px;
+    background-color: rgb(243, 241, 241)
+}
+.title{
+    padding-right: 535px;
+    background-color: rgb(243, 241, 241)
+}
+.sec{
+    padding-right: 10px;
+}
+.sig{
+    padding-right: 135px;
+     background-color: rgb(243, 241, 241)
+}
+.date{
+    padding-right: 540px; background-color: rgb(243, 241, 241)
+}
+h1{
+    color: rgb(86, 83, 83);
+}
+.tr1{
+    background-color:aliceblue;
+}
+.tr2{
+    background-color: rgb(242, 248, 254);
+}

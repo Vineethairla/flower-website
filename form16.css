@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+}
+section{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    padding: 30px;
+}
+  .head{
+   margin-left: 35px;
+  }
+  section,h1,li{
+    margin-top: 10px;
+  }
+.line{
+    border-bottom: 1px solid;
+    margin-top: -50px;
+    margin-bottom: 30px;
+    /* width: 1000px; */
+    }
+.gap{
+    padding: 50px;
+    
+}
+
+.gap1{
+    margin-bottom: 20px;
+}
+.name{
+    margin-left: 950px;
+    margin-bottom: 500px;
+}
+.fa-solid{
+    position: relative;
+    bottom: 17px ;
+    left: 37px ;
+}
+.fa-angle-right{
+    position: relative;
+    /* left: 500px; */
+}

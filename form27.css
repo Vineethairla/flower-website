@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+}
+
+section{
+    display: grid;
+    grid-template-columns: 400px auto;
+    padding-left: 90px;
+    margin-top:10px;
+
+    
+}
+.us{
+    position: relative;
+    left: 80px;
+    bottom: 44px;
+    color: red;
+}
+h1{
+    text-align: center;
+    margin-top: 10px;
+
+}
+.ut{
+    text-align: center;
+    position: relative;
+    bottom: 40px;
+}
+.img{
+    width:1200px;
+    height: 200px;
+    margin-left: 90px;
+    margin-bottom: 500px;
+}
+.fa-circle{
+    font-size: 30px;
+    position: relative;
+    bottom: 450px;
+}
+.fa-location-dot{
+    position: relative;
+    bottom: 455px;
+    right: 25px;
+
+}
+.loc{
+    position: relative;
+    bottom: 482px;
+    left: 35px;
+}
+.fa-envelope{
+    position: relative;
+    bottom: 456px;
+    right: 28px;
+
+}
+.fa-mobile{
+    position: relative;
+    bottom: 455px;
+    right: 25px;
+
+
+}
+.text{
+    position: relative;
+    bottom:455px;
+}
+.te{
+    width: 390px;
+    height: 25px;
+}
+.te1{
+    width: 390px;
+    height: 25px;
+}
+.te2{
+    height: 25px;
+    width: 793px;
+}
+.te3{
+    width: 793px;
+    height: 80px;
+
+}
+button{
+    color: white;
+    background-color: red;
+    border: none;
+    width: 120px;
+    height: 25px;
+    border-radius: 20px;
+    margin-left: 330px;
+}

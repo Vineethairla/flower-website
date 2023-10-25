@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+}
+section{
+    display: grid;
+    grid-template-columns: 450px 600px;
+    justify-content: center;
+    margin-top: 40px;
+}
+.con{
+    text-align: center;
+}
+.img{
+    width: 400px;
+    height: 360px;
+}
+.text1{
+    background-color:rgb(245, 243, 243);
+    padding-left: 20px;
+}
+
+.email{
+    padding-left: 120px;
+
+}
+.place{
+    width: 200px;
+    height: 25px;
+}
+.sub{
+    width: 412px;
+    height: 25px;
+}
+.sub1{
+    width:412px ;
+    height: 80px;
+}
+
+.fa-circle{
+    position: relative;
+    font-size: 40px;
+    /* justify-content: center; */
+    padding-left: 200px;
+    margin-top: 50px;
+    /* margin-left: 200px; */
+}
+.fa-location-dot{
+    position: relative;
+    right: 30px;
+    bottom: 10px;
+    /* padding-left: 50px; */
+}
+.fa-phone{
+    position: relative;
+    right: 31px;
+    bottom: 10px;
+
+}
+.fa-telegram{
+    position: relative;
+    right: 31px;
+    bottom: 9px;
+
+
+}
+.fa-globe{
+    position: relative;
+    right: 31px;
+    bottom: 9px;
+
+}
+button{
+    background-color: rgb(91, 91, 211);
+    border: none;
+    color: white;
+    width: 120px;
+    height: 30px;
+}
+.address{
+    padding-left: 150px;
+    padding-top: 20px;
+}
+.phone{
+    padding-left: 420px;
+    position: relative;
+    bottom: 40px;
+}
+.phone1{
+    padding-left:475px ;
+    position: relative;
+    bottom:58px ;
+    color: rgb(89, 89, 239);
+}
+.com{
+    padding-left: 680px;
+    position: relative;
+    bottom: 80px;
+
+}
+.com1{
+    padding-left: 730px;
+    position: relative;
+    bottom: 99px;
+    color: rgb(89, 89, 239);
+
+}
+.web{
+    padding-left: 950px;
+    position: relative;
+    bottom: 120px;
+
+}
+.web1{
+    padding-left: 1010px;
+    position: relative;
+    bottom: 140px;
+    color: rgb(89, 89, 239);
+
+}
+
+div.tex{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}

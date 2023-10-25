@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+}
+section{
+    height: 100vh;
+    display: flex;
+    grid-template-columns: auto auto;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(64, 33, 103);
+    color: white;
+}
+.img{
+    width: 350px;
+    height: 180px;
+    margin-left: 40px;
+
+   
+}
+.view{
+    position: relative;
+    left: 150px;
+    bottom: 20px;
+    color: white;
+}
+button{
+    border-color: rgb(36, 140, 36);
+    background-color: rgb(64, 33, 103);
+    color: white;
+    border-bottom: rgb(38, 95, 38);
+}
+.fa-solid{
+    position: relative;
+    left: 260px;
+    bottom: 38px;
+    font-size: 20px;
+}

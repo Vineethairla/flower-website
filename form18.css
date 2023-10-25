@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+}
+section{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    background-color: rgb(74, 64, 82);
+    color: rgb(216, 214, 214);
+    margin-top: 10px;
+    /* border-bottom: 1px solid; */
+    /* margin-bottom: 10px; */
+}
+h1{
+    padding-left: 40px;
+    margin-top: 20px;
+    padding-bottom: 15px;
+}
+li{
+    padding-bottom: 10px;
+}
+.form{
+    border-top: 1px solid;
+    margin-bottom: 30px;
+    /* margin-top: 10px; */
+    color: white;
+    background-color:  rgb(74, 64, 82);
+}
+.sec1{
+    margin-top: 30px;
+    padding-left: 30px;
+}
+.sec{
+    position:relative;
+    left: 1200px;
+    bottom: 18px;
+}
+.grid{
+    display: grid;
+    grid-template-columns: 30px 65px 120px 100px 21px 200px auto 7%;
+    font-size: 15px;
+    color: white;
+    
+}
+.ver{
+    position: relative;
+    right: 550px;
+    bottom: 32px;
+    
+}
+.fa-brands{
+    position: relative;
+    right: 620px;
+    /* font-size: 300px; */
+    /* top: 10px; */
+}
+.fa-indian-rupee-sign{
+    position: absolute;
+    right: 960px;
+    /* top: 415px; */
+}
+.cash{
+    position: relative;
+    right: 700px;
+    bottom: 29px;
+}
+.bank{
+    position: relative;
+    height: 25px;
+    bottom: 2px;
+}
+.mone{
+    position: relative;
+    left: 10px;
+    bottom: 87px;
+}
+.fa-lock{
+    position: relative;
+    left: 220px;
+    bottom: 99px;
+    font-size: 35px;
+}
+.bit{
+    position: relative;
+    left: 100px;
+    bottom: 100px;
+}
+.section1{
+    padding-left: 30px;
+}
+.fa-cc-amazon-pay{
+    position: relative;
+    left: 620px;
+    font-size: 35px;
+    bottom: 95px;
+}

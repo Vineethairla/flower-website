@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+}
+section{
+    display: flex;
+    justify-content: center;
+}
+.form1 {
+   margin-top: 200px;
+   
+}
+.form2{
+    position: absolute;
+    top: 250px;
+    padding-right: 150px;
+}
+.len{
+    text-align: center;
+}
+.len1{
+    margin-top: 10px;
+    width: 200px;
+    padding: 15px;
+    background-color: rgb(15, 15, 133);
+    border: none;
+
+}
+.len2{
+    margin-top: 10px;
+    width: 200px;
+    padding: 15px;
+    background-color: rgb(40, 173, 225);
+    border: none;
+
+}
+.len3{
+    margin-top: 10px;
+    padding: 15px;
+    width: 200px;
+    background-color:rgb(231, 26, 26);
+    border: none;
+}
+.fa-brands{
+    position: relative;
+    left: 120px;
+    top: 5px;
+}
+
+.form3{
+    margin-top: 30px;
+    margin-left: 160px;
+    border: 2px solid;
+    background-color:rgb(247, 245, 241);
+    border: none;
+    height: 450px;
+    width: 400px;
+}
+.form,h1,p{
+    text-align: center;
+}
+.len4{
+    margin-top: 30px;
+    margin-left:35px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    width: 320px;
+    border-color: rgb(232, 228, 228);
+    background-color:rgb(247, 245, 241); ;
+}
+.len5{
+    margin-top: 30px;
+    margin-left: 35px;
+    accent-color: rgb(51, 141, 51);
+}
+.len6{
+    position: relative;
+    left: 110px;
+}
+
+.button{
+    margin-top: 50px;
+    margin-left: 80px;
+    color: white;
+    background-color: rgb(51, 141, 51);
+    border: none;
+    width: 250px;
+    padding: 10px;
+    border-radius: 10px;
+}

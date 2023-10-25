@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+}
+body{
+    height:100vh;
+    background:linear-gradient( 90deg,rgb(187, 184, 184),white ,rgb(179, 176, 176));
+}
+div{
+    height:60px;
+    width:570px;
+    border:1px dashed blue;
+    margin-left: 360px;
+    margin-top: -5px;
+}
+form{
+    margin-left: 400px;
+    margin-top: 20px;
+    
+}
+form,input,label,select{
+    margin-top: 10px;
+}
+.first{
+    color: rgb(92, 90, 90);
+}
+.middle{
+   padding-left: 100px;
+   color:rgb(96, 94, 94)
+}
+.last{
+    padding-left: 80px;
+    color: rgb(95, 95, 95);
+}
+.gender{
+    margin-left: 180px;
+}
+.option{
+    width: 70px;
+    height: 25px;
+}
+.select{
+    margin-left: 30px;
+    width:265px;
+    height: 25px;
+    color: rgb(104, 102, 102);
+}
+.month{
+    color: rgb(96, 96, 96);
+}
+.day{
+    margin-left: 30px;
+    color: rgb(94, 93, 93);
+}
+.year{
+    margin-left: 42px;
+    color: rgb(97, 96, 96);
+}
+.text1{
+    width:515px;
+}
+.text3{
+    width: 253px;
+}
+.text4{
+    margin-left: 230px;
+    color: rgb(92, 91, 91);
+}
+.text5{
+    margin-left: 160px;
+}
+.text7{
+    width:170px;
+    color: rgb(92, 91, 91);
+}
+.text8{
+    width:520px;
+    height:100px;
+}
+button{
+    background-color: rgb(19, 160, 19);
+    border: none;
+    color: white;
+    height: 30px;
+    width: 150px;
+}
+.butt{
+    margin-left: 220px;
+}
+.text{
+    color:rgb(102, 101, 101)
+}
+.logo1{
+    
+    padding-left: 200px;
+    color: blue;
+    
+}
+.fa-solid{
+    position: relative;
+    left:200px;
+    padding-top: 20px;
+    
+}

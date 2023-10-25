@@ -1,0 +1,39 @@
+h1{
+    text-align:center;
+    border-style:dashed;
+    border-width: 5px;
+    border-color: aquamarine;
+
+
+    /*shorthand property*/
+    border:5px solid pink;/*border-width border-style border-color*/
+    border-radius: 5px 10px 40px 30px;/* top right bottom left*/
+    border-radius:100px 200px ;/* top&bottom,left&right*/
+    border-radius:100px 30px 60px ;/*top,right&left,bottom*/
+    border-radius:60px ;/*top&left&right&bottom*/
+
+
+    padding-top: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 100px;
+
+
+    /*shorthand property*/
+   padding: 10px 50px 80px 100px;
+
+
+
+   margin-top: 50px;
+   margin-bottom: 60px;
+   margin-right: 80px;
+   margin-left: 100px;
+
+   /*shothand property*/
+   margin: 100px 80px 60px 10px;
+
+
+   
+
+
+}

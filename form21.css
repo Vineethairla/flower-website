@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+}
+.about{
+    text-align: center;
+}
+.ab{
+    border-top: 2px solid;
+    width:50px;
+    margin-bottom: 15px;
+    margin-left: 685px;
+    margin-top: 10px;
+    color: rgb(61, 169, 61);
+
+}
+.img{
+    width: 200px;
+    height: 320px;
+    
+}
+.bi{
+    padding-top: 15px;
+}
+section{
+    display: grid;
+    grid-template-columns: 250px 800px;
+    margin-left: 160px;
+}
+.ill{
+    font-family:'Courier New', Courier, monospace
+}
+.age{
+    position: relative;
+    bottom:20px;
+    left: 450px;
+  
+}
